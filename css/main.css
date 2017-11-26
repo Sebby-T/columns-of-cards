@@ -31,7 +31,7 @@ h3 {
 }
 
 img {
-  width: 99px;
+  width: 100px;
   display: block;
   margin: 0 auto 1.5rem;
 }
@@ -72,7 +72,7 @@ img {
 }
 
 .column-a {
-  padding: .75rem .75rem 2.25rem;
+  padding: .75rem .75rem 2.75rem;
   background-color: #e2e2e2;
   border-left: 1px solid #333;
   float: left;
@@ -80,7 +80,7 @@ img {
 }
 
 .column-b {
-  padding: .75rem;
+  padding: .75rem .75rem 1.25rem;
   background-color: #ccc;
   border-left: 1px solid #333;
   float: left;
@@ -88,7 +88,7 @@ img {
 }
 
 .column-c {
-  padding: .75rem .75rem 2.25rem;
+  padding: .75rem .75rem 2.75rem;
   background-color: #aaa;
   border-left: 1px solid #333;
   float: left;
@@ -96,7 +96,7 @@ img {
 }
 
 .column-d {
-  padding: .75rem;
+  padding: .75rem .75rem 1.5rem;
   background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
