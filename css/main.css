@@ -61,7 +61,7 @@ img {
 
 .btn-small {
   text-decoration: none;
-  color: #fff;
+  color: #f2f2f2;
   font-size: .875rem;
   padding: .3rem;
 }
@@ -75,24 +75,24 @@ img {
   padding: .75rem .75rem 2.25rem;
   background-color: #e2e2e2;
   border-left: 1px solid #333;
-  float:left;
-  width: 25%
+  float: left;
+  width: 25%;
 }
 
 .column-b {
   padding: .75rem;
   background-color: #ccc;
   border-left: 1px solid #333;
-  float:left;
-  width: 25%
+  float: left;
+  width: 25%;
 }
 
 .column-c {
   padding: .75rem .75rem 2.25rem;
   background-color: #aaa;
   border-left: 1px solid #333;
-  float:left;
-  width: 25%
+  float: left;
+  width: 25%;
 }
 
 .column-d {
@@ -100,6 +100,6 @@ img {
   background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
-  float:left;
-  width: 25%
+  float: left;
+  width: 25%;
 }
