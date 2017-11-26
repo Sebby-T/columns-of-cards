@@ -32,12 +32,12 @@ h3 {
 
 figure {
   width: 100px;
+  display: block;
+  margin: 0 auto 1.5rem;
 }
 
 img {
   width: 100%;
-  display: block;
-  margin: 0 auto 1.5rem;
 }
 
 .name {
