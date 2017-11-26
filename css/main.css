@@ -19,11 +19,12 @@ h2 {
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  padding-bottom: .75rem;
-  margin: 0;
+  padding-bottom: 1.5rem;
+  margin: 0 0 1.5rem;
 }
 
 h3 {
+  font-size: 1rem;
   font-weight: bold;
   padding: 0;
   margin: 0;
@@ -42,50 +43,32 @@ img {
   margin: 0;
 }
 
-.btn {
+.text {
   margin: 0 0 1.5rem;
-  padding: .75rem;
-  background-color: #333;
-  color: #f2f2f2;
+}
+
+.btn {
   display: inline-block;
-  text-decoration: none;
+  background-color: #333;
   border-radius: 8px;
+  margin: 0 0 2rem;
+  padding: .4rem .5rem;
 }
 
 .btn:hover {
   background-color: #000;
 }
 
-.column-a {
+.btn-small {
+  text-decoration: none;
+  color: #fff;
+  font-size: .875rem;
+  padding: .3rem;
+}
+
+div:not(.btn) {
   padding: .75rem;
   background-color: #e2e2e2;
-  border-left: 1px solid #333;
-  border-right: 1px solid #333;
-  width: 25%;
-  float: left;
-}
-
-.column-b {
-  padding: .75rem;
-  background-color: #ccc;
-  border-left: 1px solid #333;
-  border-right: 1px solid #333;
-  width: 25%;
-  float: left;
-}
-
-.column-c {
-  padding: .75rem;
-  background-color: #aaa;
-  border-left: 1px solid #333;
-  border-right: 1px solid #333;
-  width: 25%;
-  float: left;
-}
-
-.column-d {
-  padding: .75rem;
-  background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
   width: 25%;
